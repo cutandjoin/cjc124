@@ -1,7 +1,8 @@
-REM CJC sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
-REM DIRINDEX 1\4,1\2\5,1\2\6,1\3\7,1\3\8
-REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder07
+CJM sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
+DIRINDEX 1\4,1\2\5,1\2\6,1\3\7,1\3\8
+DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder07
 
+#
 001_Day01_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_0001
@@ -70,6 +71,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:06:30 0:
 01:06:49 6:cjc124_0033
 01:08:31 0:
+#
 002_Day01_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_0034
@@ -138,6 +140,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:24:51 0:
 01:24:69 8:cjc124_0066
 01:27:57 0:
+#
 003_Day02_Chech2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_0067
@@ -206,6 +209,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:06:22 0:
 01:06:36 6:cjc124_0099
 01:08:56 0:
+#
 004_Day02_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_0100
@@ -274,6 +278,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:17:02 0:
 01:17:18 8:cjc124_0132
 01:19:21 0:
+#
 005_Day03_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_0133
@@ -342,6 +347,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:06:08 0:
 01:06:32 6:cjc124_0165
 01:08:29 0:
+#
 006_Day03_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_0166
@@ -410,6 +416,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:30:56 0:
 01:31:08 8:cjc124_0198
 01:33:46 0:
+#
 007_Day04_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_0199
@@ -478,6 +485,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:08:17 0:
 01:08:50 6:cjc124_0231
 01:09:65 0:
+#
 008_Day04_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_0232
@@ -546,6 +554,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:39:15 0:
 01:39:37 8:cjc124_0264
 01:42:39 0:
+#
 009_Day05_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_0265
@@ -614,6 +623,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:06:26 0:
 01:06:53 6:cjc124_0297
 01:08:23 0:
+#
 010_Day05_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_0298
@@ -682,6 +692,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:29:27 0:
 01:29:45 8:cjc124_0330
 01:33:19 0:
+#
 011_Day06_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_0331
@@ -750,6 +761,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:07:31 0:
 01:07:51 6:cjc124_0363
 01:09:52 0:
+#
 012_Day06_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_0364
@@ -818,6 +830,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:41:44 0:
 01:41:59 8:cjc124_0396
 01:44:30 0:
+#
 013_Day07_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_0397
@@ -886,6 +899,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:08:44 0:
 01:08:66 6:cjc124_0429
 01:10:55 0:
+#
 014_Day07_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_0430
@@ -954,6 +968,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:28:61 0:
 01:29:01 8:cjc124_0462
 01:31:18 0:
+#
 015_Day08_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_0463
@@ -1022,6 +1037,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:04:33 0:
 01:04:54 6:cjc124_0495
 01:06:34 0:
+#
 016_Day08_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_0496
@@ -1090,6 +1106,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:31:71 0:
 01:32:27 8:cjc124_0528
 01:34:59 0:
+#
 017_Day09_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_0529
@@ -1158,6 +1175,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:07:70 0:
 01:08:13 6:cjc124_0561
 01:09:46 0:
+#
 018_Day09_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_0562
@@ -1226,6 +1244,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:68 0:
 01:37:11 8:cjc124_0594
 01:39:23 0:
+#
 019_Day10_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_0595
@@ -1294,6 +1313,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:08:35 0:
 01:08:48 6:cjc124_0627
 01:10:06 0:
+#
 020_Day10_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_0628
@@ -1362,6 +1382,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:54:44 0:
 01:54:58 8:cjc124_0660
 01:57:02 0:
+#
 021_Day11_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_0661
@@ -1430,6 +1451,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:02 0:
 01:13:22 6:cjc124_0693
 01:15:21 0:
+#
 022_Day11_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_0694
@@ -1498,6 +1520,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:43:62 0:
 01:44:03 8:cjc124_0726
 01:46:37 0:
+#
 023_Day12_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_0727
@@ -1566,6 +1589,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:08:58 0:
 01:09:01 6:cjc124_0759
 01:10:33 0:
+#
 024_Day12_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_0760
@@ -1634,6 +1658,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:23:58 0:
 01:24:00 8:cjc124_0792
 01:25:58 0:
+#
 025_Day13_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_0793
@@ -1702,6 +1727,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:07:10 0:
 01:07:27 6:cjc124_0825
 01:08:70 0:
+#
 026_Day13_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_0826
@@ -1770,6 +1796,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:45:57 0:
 01:45:71 8:cjc124_0858
 01:48:67 0:
+#
 027_Day14_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_0859
@@ -1838,6 +1865,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:09:01 0:
 01:09:18 6:cjc124_0891
 01:10:45 0:
+#
 028_Day14_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_0892
@@ -1910,6 +1938,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:50 0:
 01:37:73 8:cjc124_0926
 01:39:10 0:
+#
 029_Day15_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_0927
@@ -1978,6 +2007,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:63 0:
 01:11:07 6:cjc124_0959
 01:13:02 0:
+#
 030_Day15_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_0960
@@ -2046,6 +2076,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:25 0:
 01:36:45 8:cjc124_0992
 01:39:02 0:
+#
 031_Day16_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_0993
@@ -2114,6 +2145,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:12 0:
 01:10:41 6:cjc124_1025
 01:11:72 0:
+#
 032_Day16_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_1026
@@ -2182,6 +2214,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:27 0:
 01:36:48 8:cjc124_1058
 01:39:21 0:
+#
 033_Day17_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_1059
@@ -2250,6 +2283,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:08:03 0:
 01:08:17 6:cjc124_1091
 01:10:00 0:
+#
 034_Day17_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_1092
@@ -2318,6 +2352,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:41:14 0:
 01:41:38 8:cjc124_1124
 01:43:54 0:
+#
 035_Day18_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_1125
@@ -2386,6 +2421,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:24 0:
 01:10:51 6:cjc124_1157
 01:12:32 0:
+#
 036_Day18_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_1158
@@ -2454,6 +2490,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:43:31 0:
 01:43:49 8:cjc124_1190
 01:46:10 0:
+#
 037_Day19_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_1191
@@ -2522,6 +2559,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:05:01 0:
 01:05:21 6:cjc124_1223
 01:06:69 0:
+#
 038_Day19_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_1224
@@ -2590,6 +2628,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:32:51 0:
 01:32:66 8:cjc124_1256
 01:35:16 0:
+#
 039_Day20_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_1257
@@ -2658,6 +2697,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:06:16 0:
 01:06:34 6:cjc124_1289
 01:07:64 0:
+#
 040_Day20_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_1290
@@ -2726,6 +2766,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:39:41 0:
 01:39:55 8:cjc124_1322
 01:42:18 0:
+#
 041_Day21_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_1323
@@ -2794,6 +2835,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:05:38 0:
 01:05:56 6:cjc124_1355
 01:07:27 0:
+#
 042_Day21_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_1356
@@ -2862,6 +2904,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:28:37 0:
 01:28:57 8:cjc124_1388
 01:32:08 0:
+#
 043_Day22_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_1389
@@ -2930,6 +2973,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:04:33 0:
 01:04:60 6:cjc124_1421
 01:06:18 0:
+#
 044_Day22_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_1422
@@ -2998,6 +3042,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:45:32 0:
 01:45:59 8:cjc124_1454
 01:48:65 0:
+#
 045_Day23_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_1455
@@ -3066,6 +3111,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:05:28 0:
 01:05:48 6:cjc124_1487
 01:07:15 0:
+#
 046_Day23_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_1488
@@ -3134,6 +3180,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:35:51 0:
 01:35:69 8:cjc124_1520
 01:38:49 0:
+#
 047_Day24_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_1521
@@ -3202,6 +3249,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:02:26 0:
 01:02:40 6:cjc124_1553
 01:04:25 0:
+#
 048_Day24_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_1554
@@ -3270,6 +3318,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:40:31 0:
 01:40:46 8:cjc124_1586
 01:43:31 0:
+#
 049_Day25_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_1587
@@ -3338,6 +3387,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:08:44 0:
 01:08:64 6:cjc124_1619
 01:10:06 0:
+#
 050_Day25_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_1620
@@ -3406,6 +3456,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:50:49 0:
 01:50:74 8:cjc124_1652
 01:54:74 0:
+#
 051_Day26_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_1653
@@ -3474,6 +3525,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:11:02 0:
 01:11:15 6:cjc124_1685
 01:12:58 0:
+#
 052_Day26_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_1686
@@ -3542,6 +3594,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:54:03 0:
 01:54:19 8:cjc124_1718
 01:56:12 0:
+#
 053_Day27_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_1719
@@ -3610,6 +3663,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:10 0:
 01:10:30 6:cjc124_1751
 01:13:16 0:
+#
 054_Day27_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_1752
@@ -3678,6 +3732,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:40:46 0:
 01:40:64 8:cjc124_1784
 01:45:00 0:
+#
 055_Day28_Check2_Phrases.mp3
 00:00:00 0:
 00:00:31 4:cjc124_1785
@@ -3746,6 +3801,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:17:63 0:
 01:18:09 6:cjc124_1817
 01:19:70 0:
+#
 056_Day28_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_1818
@@ -3814,6 +3870,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:57:74 0:
 01:58:19 8:cjc124_1850
 02:01:45 0:
+#
 057_Day29_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_1851
@@ -3882,6 +3939,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:05:07 0:
 01:05:30 6:cjc124_1883
 01:06:57 0:
+#
 058_Day29_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_1884
@@ -3950,6 +4008,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:30:26 0:
 01:30:42 8:cjc124_1916
 01:33:07 0:
+#
 059_Day30_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_1917
@@ -4018,6 +4077,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:07:57 0:
 01:07:74 6:cjc124_1949
 01:10:14 0:
+#
 060_Day30_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_1950
@@ -4086,6 +4146,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:45:67 0:
 01:46:19 8:cjc124_1982
 01:49:26 0:
+#
 061_Day31_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_1983
@@ -4154,6 +4215,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:02 0:
 01:10:22 6:cjc124_2015
 01:12:36 0:
+#
 062_Day31_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_2016
@@ -4222,6 +4284,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:55:05 0:
 01:55:24 8:cjc124_2048
 01:57:47 0:
+#
 063_Day32_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_2049
@@ -4290,6 +4353,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:06:63 0:
 01:07:02 6:cjc124_2081
 01:08:58 0:
+#
 064_Day32_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_2082
@@ -4358,6 +4422,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:58:40 0:
 01:58:56 8:cjc124_2114
 02:02:01 0:
+#
 065_Day33_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_2115
@@ -4426,6 +4491,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:08:54 0:
 01:08:74 6:cjc124_2147
 01:10:31 0:
+#
 066_Day33_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_2148
@@ -4494,6 +4560,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:51:74 0:
 01:52:14 8:cjc124_2180
 01:54:60 0:
+#
 067_Day34_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_2181
@@ -4562,6 +4629,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:07:37 0:
 01:07:51 6:cjc124_2213
 01:09:42 0:
+#
 068_Day34_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_2214
@@ -4630,6 +4698,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:28:35 0:
 01:28:53 8:cjc124_2246
 01:31:41 0:
+#
 069_Day35_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_2247
@@ -4698,6 +4767,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:09:32 0:
 01:09:52 6:cjc124_2279
 01:12:15 0:
+#
 070_Day35_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_2280
@@ -4766,6 +4836,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:23 0:
 01:36:43 8:cjc124_2312
 01:41:71 0:
+#
 071_Day36_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_2313
@@ -4834,6 +4905,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:11:05 0:
 01:11:31 6:cjc124_2345
 01:12:71 0:
+#
 072_Day36_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_2346
@@ -4902,6 +4974,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:55:07 0:
 01:55:22 8:cjc124_2378
 01:58:46 0:
+#
 073_Day37_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_2379
@@ -4970,6 +5043,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:15:48 0:
 01:15:64 6:cjc124_2411
 01:17:39 0:
+#
 074_Day37_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_2412
@@ -5038,6 +5112,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:35:35 0:
 01:35:53 8:cjc124_2444
 01:38:24 0:
+#
 075_Day38_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_2445
@@ -5106,6 +5181,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:14:29 0:
 01:14:57 6:cjc124_2477
 01:16:50 0:
+#
 076_Day38_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_2478
@@ -5174,6 +5250,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:40:58 0:
 01:40:72 8:cjc124_2510
 01:44:54 0:
+#
 077_Day39_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_2511
@@ -5242,6 +5319,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:14 0:
 01:10:41 6:cjc124_2543
 01:12:62 0:
+#
 078_Day39_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_2544
@@ -5310,6 +5388,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:54 0:
 01:38:02 8:cjc124_2576
 01:41:44 0:
+#
 079_Day40_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_2577
@@ -5378,6 +5457,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:21:02 0:
 01:21:18 6:cjc124_2609
 01:23:30 0:
+#
 080_Day40_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_2610
@@ -5446,6 +5526,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:57:39 0:
 01:57:60 8:cjc124_2642
 02:02:07 0:
+#
 081_Day41_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_2643
@@ -5514,6 +5595,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:10:69 0:
 01:11:17 6:cjc124_2675
 01:12:46 0:
+#
 082_Day41_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_2676
@@ -5582,6 +5664,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:30:40 0:
 01:30:64 8:cjc124_2708
 01:33:36 0:
+#
 083_Day42_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_2709
@@ -5650,6 +5733,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:09:01 0:
 01:09:16 6:cjc124_2741
 01:10:67 0:
+#
 084_Day42_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_2742
@@ -5718,6 +5802,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:52:40 0:
 01:52:55 8:cjc124_2774
 01:55:63 0:
+#
 085_Day43_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_2775
@@ -5786,6 +5871,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:05:44 0:
 01:05:64 6:cjc124_2807
 01:07:64 0:
+#
 086_Day43_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_2808
@@ -5854,6 +5940,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:46:27 0:
 01:46:59 8:cjc124_2840
 01:50:09 0:
+#
 087_Day44_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_2841
@@ -5922,6 +6009,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:06:30 0:
 01:06:47 6:cjc124_2873
 01:08:07 0:
+#
 088_Day44_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_2874
@@ -5990,6 +6078,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:46:12 0:
 01:46:25 8:cjc124_2906
 01:49:20 0:
+#
 089_Day45_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_2907
@@ -6058,6 +6147,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:06:55 0:
 01:06:71 6:cjc124_2939
 01:08:31 0:
+#
 090_Day45_Check3_Sentences 1.mp3
 00:00:00 0:
 00:00:25 4:cjc124_2940
@@ -6126,6 +6216,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:39:72 0:
 01:40:11 8:cjc124_2972
 01:42:59 0:
+#
 091_Day46_Check2_Phrases 1.mp3
 00:00:00 0:
 00:00:33 4:cjc124_2973
@@ -6194,6 +6285,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:08:62 0:
 01:09:05 6:cjc124_3005
 01:10:35 0:
+#
 092_Day46_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_3006
@@ -6262,6 +6354,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:52:44 0:
 01:52:57 8:cjc124_3038
 01:56:34 0:
+#
 093_Day47_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_3039
@@ -6330,6 +6423,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:14:04 0:
 01:14:21 6:cjc124_3071
 01:15:72 0:
+#
 094_Day47_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_3072
@@ -6398,6 +6492,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:45:10 0:
 01:45:28 8:cjc124_3104
 01:47:70 0:
+#
 095_Day48_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_3105
@@ -6466,6 +6561,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:12:05 0:
 01:12:19 6:cjc124_3137
 01:14:37 0:
+#
 096_Day48_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_3138
@@ -6534,6 +6630,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:54:66 0:
 01:55:05 8:cjc124_3170
 01:58:32 0:
+#
 097_Day49_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_3171
@@ -6602,6 +6699,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:14:29 0:
 01:14:49 6:cjc124_3203
 01:15:74 0:
+#
 098_Day49_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_3204
@@ -6670,6 +6768,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:55:34 0:
 01:55:50 8:cjc124_3236
 01:58:40 0:
+#
 099_Day50_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_3237
@@ -6738,6 +6837,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:07:63 0:
 01:08:03 6:cjc124_3269
 01:09:50 0:
+#
 100_Day50_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_3270
@@ -6806,6 +6906,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:57:35 0:
 01:57:49 8:cjc124_3302
 01:59:67 0:
+#
 101_Day51_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_3303
@@ -6874,6 +6975,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:06:61 0:
 01:07:04 6:cjc124_3335
 01:08:58 0:
+#
 102_Day51_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_3336
@@ -6942,6 +7044,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:55:34 0:
 01:55:58 8:cjc124_3368
 01:58:34 0:
+#
 103_Day52_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_3369
@@ -7010,6 +7113,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:05:71 0:
 01:06:10 6:cjc124_3401
 01:07:55 0:
+#
 104_Day52_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_3402
@@ -7078,6 +7182,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:04:55 0:
 02:04:68 8:cjc124_3434
 02:08:41 0:
+#
 105_Day53_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_3435
@@ -7146,6 +7251,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:08:29 0:
 01:08:48 6:cjc124_3467
 01:10:31 0:
+#
 106_Day53_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_3468
@@ -7214,6 +7320,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:57:13 0:
 01:57:31 8:cjc124_3500
 01:59:12 0:
+#
 107_Day54_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_3501
@@ -7282,6 +7389,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:08:17 0:
 01:08:33 6:cjc124_3533
 01:10:18 0:
+#
 108_Day54_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_3534
@@ -7350,6 +7458,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:49:02 0:
 01:49:18 8:cjc124_3566
 01:52:71 0:
+#
 109_Day55_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_3567
@@ -7418,6 +7527,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:09:65 0:
 01:10:08 6:cjc124_3599
 01:11:64 0:
+#
 110_Day55_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_3600
@@ -7486,6 +7596,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:45:57 0:
 01:45:71 8:cjc124_3632
 01:47:56 0:
+#
 111_Day56_Check2_Phrases.mp3
 00:00:00 0:
 00:00:33 4:cjc124_3633
@@ -7618,6 +7729,7 @@ REM DIRNAME cjc124,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:17:34 0:
 02:17:47 6:cjc124_3697
 02:19:31 0:
+#
 112_Day56_Check3_Sentences.mp3
 00:00:00 0:
 00:00:25 4:cjc124_3698
